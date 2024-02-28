@@ -2,6 +2,10 @@
 
 ```
 git clone https://github.com/ssarunyu/vue-games-idea.git
+cd vue-games-idea
+npm run dev
+open localhost:5173 on browser
+*npm run build* maybe have problem don't know how to fix
 ```
 
 # Idea
